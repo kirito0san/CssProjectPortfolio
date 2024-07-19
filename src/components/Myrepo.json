@@ -1,0 +1,57 @@
+[
+  {
+    "image": "./assets/Capture9.PNG",
+    "name": "Portfolio",
+    "live": "https://portfolio-p6mw.vercel.app/",
+    "skill used in": ["React", " TailwindCss "]
+  },
+  {
+    "image": "./assets/Capture.PNG",
+    "name": "Template four",
+    "live": "https://kirito0san.github.io/Template_four/html/projects.html",
+    "skill used in": ["Html", " Css "]
+  },
+  {
+    "image": "./assets/Capture2.PNG",
+    "name": "Template three",
+    "live": "https://kirito0san.github.io/Template_three/#features",
+    "skill used in": ["Html", " Css "]
+  },
+  {
+    "image": "./assets/Capture3.PNG",
+    "name": "bootcamp testimonials",
+    "live": "https://kirito0san.github.io/coding-bootcamp-testimonials-slider-master/",
+    "skill used in": ["Html", " Css ", "javascript", "typescript"]
+  },
+
+  {
+    "image": "./assets/Capture4.PNG",
+    "name": "signUp form",
+    "live": "https://kirito0san.github.io/Intro-component-with-sign-up-form/",
+    "skill used in": ["Html", " Css ", "javascript"]
+  },
+  {
+    "image": "./assets/Capture5.PNG",
+    "name": "faq accordion card",
+    "live": "https://kirito0san.github.io/faq-accordion-card-main/",
+    "skill used in": ["Html", " Css ", "javascript"]
+  },
+  {
+    "image": "./assets/Capture6.PNG",
+    "name": "crowdfunding product page",
+    "live": "https://kirito0san.github.io/crowdfunding-product-page-main/",
+    "skill used in": ["Html", " Css ", "javascript"]
+  },
+  {
+    "image": "./assets/Capture7.PNG",
+    "name": "tip calculator app",
+    "live": "https://kirito0san.github.io/tip-calculator-app-main/",
+    "skill used in": ["Html", " Css ", "javascript"]
+  },
+  {
+    "image": "./assets/Capture8.PNG",
+    "name": "interactive card details form",
+    "live": "https://kirito0san.github.io/interactive-card-details-form-main/",
+    "skill used in": ["Html", " Css ", "javascript"]
+  }
+]
